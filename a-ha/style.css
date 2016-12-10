@@ -4,13 +4,13 @@ BODY		{
 			background-attachment: fixed;
 			font-family:Verdana,Arial;
 			font-size:10pt;
-			color:rgb(119,189,181);
+			color:rgb(255,255,255);
 			background-color:rgb(0,0,0);
 			}
 TD			{
 			font-family:Verdana,Arial;
 			font-size:10pt;
-			color:rgb(119,189,181);
+			color:rgb(255,255,255);
 			}
 H1			{
 			font-size:18pt;
@@ -20,12 +20,12 @@ H1			{
 H2			{
 			font-size:16pt;
 			font-weight:bold;
-			color:rgb(106,93,147);
+			color:rgb(15,100,137);
 			}
 H3			{
 			font-size:16pt;
 			font-weight:bold;
-			color:rgb(170,132,169);
+			color:rgb(106,93,147);
 			}
 H4			{
 			font-size:10pt;
@@ -33,9 +33,9 @@ H4			{
 			color:rgb(255,0,0);
 			}
 A:link		{
-			color:rgb(170,132,169);
+			color:rgb(119,189,181);
 			}
 A:visited	{
-			color:rgb(170,132,169);
+			color:rgb(119,189,181);
 			}
 
