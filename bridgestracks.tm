@@ -18,6 +18,7 @@
 <tr><td>Death Of The Century</td><td>2:59</td><td><A HREF="bridges/bridges.htm">Fakkeltog</A></td><td>LP</td></tr>
 <tr><td>Divided We Fall</td><td>2:14</td><td><A HREF="bridges/bridges.htm">Fakkeltog</A></td><td>LP</td></tr>
 <tr><td>Every Mortal Night</td><td>3:22</td><td><A HREF="bridges/bridges.htm">Fakkeltog</A></td><td>LP/td></tr>
+<tr><td>Guest On Earth</td><td>3:23</td><td><A HREF="../bridges/bridges.htm">Fakkeltog</A></td><td>LP</td></tr>
 <tr><td>May The Last Dance Be Mine</td><td>2:33</td><td><A HREF="bridges/bridges.htm">Fakkeltog</A></td><td>LP</td></tr>
 <tr><td>Pavilion Of The Luxuriant Trees</td><td>2:35</td><td><A HREF="bridges/bridges.htm">Fakkeltog</A></td><td>LP</td></tr>
 <tr><td>Scared, Bewildered, Wild</td><td>1:38</td><td><A HREF="bridges/bridges.htm">Fakkeltog</A></td><td>LP</td></tr>
