@@ -32,7 +32,7 @@
 <tr><td>Vagrants</td><td>1:56</td><td><A HREF="bridges/bridges.htm">Fakkeltog</A></td><td>LP</td></tr>
 </TABLE>
 <br/>
-| <A HREF="menu.htm">Menu</A> | <A HREF="a-ha.htm" TARGET="_Top">a-ha Discography</A> | <A HREF="mortenh.htm" TARGET="_Top">Morten Harket Discography</A> | <A HREF="savoy.htm" TARGET="_Top">Savoy Discography</A> | <A HREF="magnef.htm" TARGET="_Top">Magne F Discography</A> | <A HREF="cover.htm">Cover Versions</A> |
+| <A HREF="menu.htm">Menu</A> | <A HREF="../a-ha.htm" TARGET="_Top">a-ha Discography</A> | <A HREF="../mortenh.htm" TARGET="_Top">Morten Harket Discography</A> | <A HREF="../savoy.htm" TARGET="_Top">Savoy Discography</A> | <A HREF="../magnef.htm" TARGET="_Top">Magne F Discography</A> | <A HREF="../cover.htm">Cover Versions</A> |
 </TD></TR>
 </TABLE>
 </BODY>
