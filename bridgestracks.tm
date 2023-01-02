@@ -26,6 +26,8 @@
 <tr><td>The Melancolic Chevaliers</td><td>3:00</td><td><A HREF="bridges/bridges.htm">Fakkeltog</A></td><td>LP</td></tr>
 <tr><td>The Oncoming Of Day (instrumantal)</td><td>2:07</td><td><A HREF="bridges/bridges.htm">Fakkeltog</A></td><td>LP</td></tr>
 <tr><td>The Oncoming Of Night (instrumental)</td><td>0:47</td><td><A HREF="bridges/bridges.htm">Fakkeltog</A></td><td>LP</td></tr>
+<tr><td>The Stranger's Town</td><td>9:58</td><td><A HREF="bridges/bridges.htm">Fakkeltog</A></td><td>LP</td></tr>
+<tr><td>The Vacant</td><td>3:30</td><td><A HREF="bridges/bridges.htm">Fakkeltog</A></td><td>LP</td></tr>
 <tr><td>Vagrants</td><td>1:56</td><td><A HREF="bridges/bridges.htm">Fakkeltog</A></td><td>LP</td></tr>
 </TABLE>
 <br/>
