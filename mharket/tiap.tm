@@ -1,0 +1,33 @@
+<HTML>
+<HEAD>
+<TITLE>Morten Harket - There Is A Place</TITLE>
+<META NAME="keywords" CONTENT="There Is A Place,Morten Harket">
+<META NAME="description" CONTENT="Norwegian release of There Is A Place by Morten Harket.">
+<META NAME="generator" CONTENT="Notepad">
+<META NAME="author" CONTENT="Suzie Dent">
+<LINK HREF="../a-ha/style.css" rel="stylesheet" type="text/css">
+</HEAD>
+<BODY> 
+<br/>
+<HR>
+<H2>There Is A Place (11.2013)</H2>
+<HR>
+<TABLE BORDER="0">
+<TR><TD WIDTH="600">
+<p>The third UK single from Morten's &quot;Out Of My Hands&quot; is the download only release of &quot;There Is A Place&quot; (3:14).</p>
+<p style="text-align:center"><IMG WIDTH="150" HEIGHT="150" SRC="mhpics/tiap.jpg" ALT="There Is A Place"></p>
+The cover artwork is black and white with a black circle with glowing edges on a black background. The title is printed in white large letters in the centre of the circle.</p>
+
+<table border="1">
+<tr>
+<td>Download</td>
+<td>&nbsp;</td>
+<td>There IS A Place</td>
+</tr> 
+ 
+<br/>
+| <A HREF="brother.htm">Next Single</A> | <A HREF="albmh.htm">Albums</A> | <A HREF="menumh.htm">Menu</A> | <A HREF="mainmh.htm">Back to Main</A> |
+</TD></TR>
+</TABLE>
+</BODY>
+</HTML> 
